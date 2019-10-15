@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Rishwan\'s CV</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Rishwan Tariq</string>
+    <string name="resume_title">Student | BS Computer Science</string>
+    <string name="user_address">Lahore,Pakistan </string>
+    <string-array name="home">
+        <item>Home</item>
+        <item>Profile</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="email">rishwan.97@gmail.com</string>
+    <string name="Address">Lahore, Pakistan</string>
+    <string name="description">Description</string>
+    <string name="AboutMe_Title">About Me</string>
+    <string name="Question1">Career Goal</string>
+    <string name="Question2">Ownership</string>
+    <string name="experience">Experience</string>
+    <string name="hands_on_skills">Skills</string>
+    <string name="phoneNumber">+923244296476</string>
+    <string name="Linkedin_IdLink">www.linkedin.com/in/rishwan-tariq</string>
+    <string name="Linkedin_UserName">RishwanTariq</string>
+    <string name="ieee_link"></string>
+    <string name="Github_UserName">rishwantariq</string>
+    <string name="Github_IdLink">https://github.com/rishwantariq</string>
+    <string name="StackOverFlow_UserName">rishwan-tariq</string>
+    <string name="stackOverFlow_IdLink">https://stackoverflow.com/users/12130940/rishwan-tariq</string>
+    <string name="education">Education</string>
+    <string name="answer">A hardworking and motivated Computer Science student looking for an opportunity that will allow me to utilize my problem solving skills and attention to detail to further develop my abilities in the field of Computer Science</string>
+    <string name="answer1"></string>
+    <string name="experience_title">Custom ROM and Kernel Development / Android Theming</string>
+    <string name="experience_description">"\u2713 Custom Android Roms / Rom porting (Oneplus)\n""\u2713 Kernel Testing \n""\u2713 Android Theming \n""\u2713 Substratum Theme Engine \n""\u2713 XDA Android Theme Development"</string>
+    <string name="why_i_did_choose_work_1">"\u2713 To gain Internal Android Knowledge \n""\u2713 Android Themeing for minimal design \n"</string>
+
+    <string name="year11">(year)</string>
+    <string name="experience_title1">Content Writer and Designer</string>
+    <string name="experience_description1">\u2713 Content Writing: Smart Security and Smart Home  \n\u2713 Design: Minimal Logo Design For Inmyzip.com</string>
+    <string name="experience_year1">(year)</string>
+    <string name="experience_title2">Volunteer Work Graphic Design</string>
+    <string name="experience_description2">\u2713 Graphic and Logo Design for BlackLabelCycling (UK) \n\u2713 Logo design for Inmyzip.com \n\u2713 Softec Graphic Design</string>
+    <string name="experience_year2">Jan 2016 - Ongoing </string>
+
+    <string name="project_title">3 Layered Website Design Using HTML / ASP.NET / CSS / Javascript </string>
+    <string name="project_description">\u2713 Library management Website as a part of a project.</string>
+    <string name="year">(2019)</string>
+
+    <string name="project_title1">File Compression Scheme </string>
+    <string name="project_description1">"\u2713 Fill Compression and encryption using Huffman coding scheme and various data structures </string>
+    <string name="year1">(2019)</string>
+    <string name="project_title2"></string>
+    <string name="project_description2"></string>
+    <string name="year2">(2019)</string>
+    <string name="todo">TODO</string>
+    <string name="email_title">Email</string>
+    <string name="address_title">Address</string>
+    <string name="phone_number_title">Phone Number</string>
+    <string name="professional_links_title">Professional Links</string>
+    <string name="linkedin_title">Linkedin</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="stack_overflow_title">Stack Overflow</string>
+    <string name="github_title">Github</string>
+    <string name="Metric_degree_title">O Levels</string>
+    <string name="school_name">Beaconhouse School Lahore</string>
+    <string name="intermediate_title">A Levels  </string>
+    <string name="college_title">Beaconhouse Defence Campus Lahore</string>
+    <string name="graduation_title">Bachelors of Science in CS (BSCS) </string>
+    <string name="university_title">National University Computer and Emerging Sciences</string>
+    <string name="degree_title1"> Android Basics by Google</string>
+    <string name="degree_title2">Degree Title</string>
+    <string name="degree_title3">Degree Title</string>
+    <string name="school_year">(2014)</string>
+    <string name="college_year">(2011-2016)</string>
+    <string name="university_year">(2017 – 2021)</string>
+    <string name="Cgpa"></string>
+    <string name="certification_courses_title">Certifications</string>
+    <string name="institute_title">Google Nanodegree by Udacity </string>
+    <string name="institute_year">(2017)</string>
+    <string name="grades">(grades)</string>
+    <string name="institute_title1">Institute Title</string>
+    <string name="institude_year1">(year)</string>
+    <string name="grades1">(grades)</string>
+    <string name="institute_title2">Institute Title</string>
+    <string name="institute_year2">(year)</string>
+    <string name="grades2">(grades)</string>
+    <string name="skill_title_1">Android</string>
+    <string name="skill_title_2">Java</string>
+    <string name="skill_title_3">Web Development</string>
+    <string name="skill_title_4">Adobe Photoshop</string>
+    <string name="skill_title_5">Adobe Illustrator</string>
+    <string name="projects_title">Projects</string>
+    <string name="why_i_did_choose_above_title_0">Why above:</string>
+    <string name="why_i_did_choose_above_title_1">Why did I choose Design:</string>
+    <string name="why_i_did_choose_work_2">"\u2713" Further enhance the minimal design skills pivotal to Android Material design Scheme</string>
+    <string name="why_i_did_choose_work_3">"\u2713" To gain networking and communication skills as well as enhancing the understanding of creative design  </string>
+    <string name="company_name1">XDA Developers</string>
+    <string name="experience_time1">January 2015 - Ongoing </string>
+    <string name="worked_on_title">Worked On:</string>
+    <string name="company_name2">Digital Omega Ltd.</string>
+    <string name="experience_time2">July 2019 - September 2019 (~3 months)</string>
+    <string name="worked_on2">Worked On:</string>
+    <string name="company_name3">FAST University</string>
+    <string name="experience_time3">January 2019 - March 2019 </string>
+    <string name="worked_on3">Worked On:</string>
+    <string name="skills">Skills</string>
+
+
+</resources>
