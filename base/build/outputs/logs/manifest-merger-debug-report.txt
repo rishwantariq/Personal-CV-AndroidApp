@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-57:12
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
 MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/e7042ebb658e310fe5321b450ee30106/AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f5b8c6c865536796dbee7fc81142a621/AndroidManifest.xml:17:1-24:12
 MERGED from [com.rhexgomez.typer:typer-roboto:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/dfd6051c0826024ae7b41eec831448df/AndroidManifest.xml:16:1-34:12
@@ -42,17 +42,17 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rishwantariq/.grad
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/7ac67b91539f8bbb4cfeac31be5951ef/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/60d50912c2ad606c5d16bd4cdfdd42b2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/fea6c6988dbfef9b1b5306bc90f81de6/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-57:12
-INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:3:5-32
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:3:5-34
 	android:versionName
 		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
-		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-57:12
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
 		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
-		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-57:12
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
 		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:11-69
@@ -65,7 +65,7 @@ ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base
 	android:name
 		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:8:5-55:19
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:8:5-45:19
 MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/e7042ebb658e310fe5321b450ee30106/AndroidManifest.xml:11:5-15:19
 MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/e7042ebb658e310fe5321b450ee30106/AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.material:material:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f5b8c6c865536796dbee7fc81142a621/AndroidManifest.xml:22:5-20
@@ -96,14 +96,14 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rish
 		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:14:9-40
-activity#com.ahmad.cv.activities.ScrollingActivity
-ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:15:9-50:20
+activity#com.rishwan.cv.activities.ScrollingActivity
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:15:9-40:20
 	android:label
 		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:17:13-45
 	android:theme
 		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:16:13-69
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:16:13-71
 meta-data#default-url
 ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:19:13-21:64
 	android:value
@@ -120,7 +120,7 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:26:17-77
 	android:name
 		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:26:27-74
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:shahwaiz90.github.io+data:pathPattern:/resume/+data:scheme:https
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:shahwaiz90.github.io+data:pathPrefix:/resume+data:scheme:http
 ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:28:13-38:29
 	android:autoVerify
 		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:28:28-53
@@ -137,21 +137,19 @@ ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base
 	android:name
 		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:32:27-75
 data
-ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:34:17-37:46
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:34:17-37:52
 	android:host
-		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:35:21-56
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:36:21-56
 	android:scheme
-		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:37:21-43
-	android:pathPattern
-		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:36:21-51
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:shahwaiz90.github.io+data:pathPattern:/resume+data:scheme:http
-ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:39:13-49:29
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:35:21-42
+	android:pathPrefix
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:37:21-49
 meta-data#preloaded_fonts
-ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:52:9-54:57
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:42:9-44:57
 	android:resource
-		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:54:13-54
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:44:13-54
 	android:name
-		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:53:13-43
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:43:13-43
 uses-sdk
 INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml

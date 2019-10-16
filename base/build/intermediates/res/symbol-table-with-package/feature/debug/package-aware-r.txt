@@ -1,4 +1,4 @@
-com.ahmad.cv.base
+com.rishwan.cv.base
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1125,10 +1125,8 @@ drawable person
 drawable phone
 drawable placeholder
 drawable profile
-drawable profile2
 drawable ps
 drawable pucitlogo
-drawable schoool
 drawable smartphone
 drawable stackoverflow
 drawable subs

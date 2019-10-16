@@ -1,0 +1,4 @@
+#Wed Oct 16 13:50:14 PKT 2019
+base.0=/Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/build/intermediates/transforms/dexMerger/feature/release/0
+path.0=classes.dex
+renamed.0=classes.dex

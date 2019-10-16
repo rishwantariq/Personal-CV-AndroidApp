@@ -9,7 +9,175 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cf89c04-d7f8-4c23-afbd-753efc17ec8f" name="Default Changelist" comment="" />
+    <list default="true" id="7cf89c04-d7f8-4c23-afbd-753efc17ec8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/generated/not_namespaced_r_class_sources/debugFeature/processDebugFeatureResources/r/androidx/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/generated/not_namespaced_r_class_sources/debugFeature/processDebugFeatureResources/r/androidx/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/generated/not_namespaced_r_class_sources/debugFeature/processDebugFeatureResources/r/com/ahmad/cv/base/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/generated/not_namespaced_r_class_sources/debugFeature/processDebugFeatureResources/r/com/google/android/material/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/generated/not_namespaced_r_class_sources/debugFeature/processDebugFeatureResources/r/com/google/android/material/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/generated/not_namespaced_r_class_sources/debugFeature/processDebugFeatureResources/r/com/rhexgomez/typer/common/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/generated/not_namespaced_r_class_sources/debugFeature/processDebugFeatureResources/r/com/rhexgomez/typer/common/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/generated/not_namespaced_r_class_sources/debugFeature/processDebugFeatureResources/r/com/rhexgomez/typer/roboto/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/generated/not_namespaced_r_class_sources/debugFeature/processDebugFeatureResources/r/com/rhexgomez/typer/roboto/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/generated/source/buildConfig/androidTest/debug/com/ahmad/cv/base/test/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/generated/source/buildConfig/androidTest/debug/com/ahmad/cv/base/test/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/generated/source/buildConfig/debug/com/ahmad/cv/base/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/generated/source/buildConfig/debug/com/ahmad/cv/base/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/generated/source/buildConfig/feature/debug/com/ahmad/cv/base/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/blame/res/feature/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/blame/res/feature/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/blame/res/feature/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/blame/res/feature/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/blame/res/feature/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/blame/res/feature/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/bundle_manifest/debugFeature/processDebugFeatureManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/bundle_manifest/debugFeature/processDebugFeatureManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/bundle_manifest/debugFeature/processDebugFeatureManifest/bundle-manifest/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/bundle_manifest/debugFeature/processDebugFeatureManifest/bundle-manifest/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/incremental/debugFeature-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/incremental/debugFeature-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/incremental/mergeDebugFeatureResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/incremental/mergeDebugFeatureResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/incremental/mergeDebugFeatureResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/incremental/mergeDebugFeatureResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/incremental/packageDebugFeature/tmp/debugFeature/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/incremental/packageDebugFeature/tmp/debugFeature/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/incremental/packageDebugFeature/tmp/debugFeature/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/incremental/packageDebugFeature/tmp/debugFeature/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/incremental/packageDebugFeature/tmp/debugFeature/zip-cache/BReNBHjj7fehHIeq41gFHnnWtEU=" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/incremental/packageDebugFeature/tmp/debugFeature/zip-cache/BReNBHjj7fehHIeq41gFHnnWtEU=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/instant_app_manifest/debugFeature/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/instant_app_manifest/debugFeature/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/instant_run_merged_manifests/debugFeature/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/instant_run_merged_manifests/debugFeature/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/androidx/appcompat/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/androidx/appcompat/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/activities/ScrollingActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/activities/ScrollingActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/adapters/AboutAdapter$DemoItemHolder1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/adapters/AboutAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/adapters/CustomAdapter$DemoItemHolder4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/adapters/CustomAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/adapters/EducationAdapter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/adapters/EducationAdapter$DemoItemHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/adapters/EducationAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/adapters/ProfessionAdapter$DemoItemHolder2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/adapters/ProfessionAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/adapters/ViewPagerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$anim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$animator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$bool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$dimen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$font.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$interpolator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$layout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$mipmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R$styleable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/base/recycler_view.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/fragments/AboutFragment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/fragments/EducationFragment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/fragments/ProfessionFragment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/fragments/skills.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/model/DataItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/ahmad/cv/model/DemoItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/google/android/material/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/google/android/material/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/rhexgomez/typer/common/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/rhexgomez/typer/common/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/rhexgomez/typer/roboto/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/javac/debugFeature/compileDebugFeatureJavaWithJavac/classes/com/rhexgomez/typer/roboto/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/merged_manifests/debugFeature/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/merged_manifests/debugFeature/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/merged_manifests/debugFeature/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/merged_manifests/debugFeature/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/metadata_base_module_declaration/debugFeature/writeDebugFeatureModuleMetadata/application-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/metadata_base_module_declaration/debugFeature/writeDebugFeatureModuleMetadata/application-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/processed_res/debugFeature/processDebugFeatureResources/out/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/processed_res/debugFeature/processDebugFeatureResources/out/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/processed_res/debugFeature/processDebugFeatureResources/out/resources-debugFeature.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/processed_res/debugFeature/processDebugFeatureResources/out/resources-debugFeature.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable-xhdpi_profile.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable_ai.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable_ai.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable_an.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable_an.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable_is.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable_is.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable_profile2.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable_schoool.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable_subs.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/drawable_subs.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/layout_fragment_skills.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/layout_fragment_skills.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/menu_menu_scrolling.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/menu_menu_scrolling.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/res/merged/feature/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/res/symbol-table-with-package/feature/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/res/symbol-table-with-package/feature/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/symbols/feature/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/symbols/feature/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/androidx/appcompat/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/androidx/appcompat/R$drawable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/activities/ScrollingActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/activities/ScrollingActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/adapters/AboutAdapter$DemoItemHolder1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/adapters/AboutAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/adapters/CustomAdapter$DemoItemHolder4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/adapters/CustomAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/adapters/EducationAdapter$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/adapters/EducationAdapter$DemoItemHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/adapters/EducationAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/adapters/ProfessionAdapter$DemoItemHolder2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/adapters/ProfessionAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/adapters/ViewPagerAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$anim.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$animator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$array.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$font.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$interpolator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$menu.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$mipmap.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/base/recycler_view.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/fragments/AboutFragment.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/fragments/EducationFragment.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/fragments/ProfessionFragment.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/fragments/skills.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/model/DataItem.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/ahmad/cv/model/DemoItem.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/google/android/material/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/google/android/material/R$drawable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/rhexgomez/typer/common/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/rhexgomez/typer/common/R$drawable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/rhexgomez/typer/roboto/R$drawable.dex" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/transforms/dexBuilder/feature/debug/100/com/rhexgomez/typer/roboto/R$drawable.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/dexMerger/feature/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/transforms/dexMerger/feature/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/intermediates/transforms/mergeJavaRes/feature/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/intermediates/transforms/mergeJavaRes/feature/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/outputs/apk/feature/debug/base-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/outputs/apk/feature/debug/base-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/outputs/splits/full/feature/debug/base-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/outputs/splits/full/feature/debug/base-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/activities/ScrollingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/adapters/AboutAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/adapters/CustomAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/adapters/EducationAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/adapters/ProfessionAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/adapters/ViewPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/base/recycler_view.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/AboutFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/EducationFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/ProfessionFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/skills.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/model/DataItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/model/DemoItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/res/drawable-xhdpi/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/res/drawable/ai.png" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/main/res/drawable/ai.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/res/drawable/an.png" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/main/res/drawable/an.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/res/drawable/is.png" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/main/res/drawable/is.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/res/drawable/profile2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/res/drawable/schoool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/res/drawable/subs.png" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/main/res/drawable/subs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/res/layout/fragment_skills.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/main/res/layout/fragment_skills.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/res/menu/menu_scrolling.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/main/res/menu/menu_scrolling.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/installed/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/installed/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instant/build/outputs/apk/debug/instant-app.json" beforeDir="false" afterPath="$PROJECT_DIR$/instant/build/outputs/apk/debug/instant-app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instant/build/outputs/apk/debug/instant-debug.zip" beforeDir="false" afterPath="$PROJECT_DIR$/instant/build/outputs/apk/debug/instant-debug.zip" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +188,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Oneplus_6_API_28" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_XL_API_28" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -53,131 +221,77 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/src/main/res/layout/list.xml">
-          <provider editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/base/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="215" column="25" selection-start-line="215" selection-start-column="25" selection-end-line="215" selection-end-column="25" />
+            <state relative-caret-position="123">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding>
-                <element signature="e#1786#1800#0" expanded="true" />
-                <element signature="e#3596#3610#0" expanded="true" />
-                <element signature="e#5532#5546#0" expanded="true" />
-                <element signature="e#9827#9841#0" expanded="true" />
+                <element signature="e#396#414#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/instant/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/installed/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/src/main/res/values/colors.xml">
+        <entry file="file://$PROJECT_DIR$/base/src/main/java/com/rishwan/cv/activities/ScrollingActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="12" />
+            <state relative-caret-position="68">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/base/src/main/res/layout/about.xml">
-          <provider editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/base/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state relative-caret-position="-149">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/src/main/java/com/rishwan/cv/adapters/AboutAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding>
-                <element signature="e#1077#1100#0" expanded="true" />
-                <element signature="e#1545#1564#0" expanded="true" />
-                <element signature="e#1905#1921#0" expanded="true" />
-                <element signature="e#2773#2790#0" expanded="true" />
-                <element signature="e#4025#4054#0" expanded="true" />
-                <element signature="e#4693#4707#0" expanded="true" />
-                <element signature="e#5124#5138#0" expanded="true" />
-                <element signature="e#5707#5721#0" expanded="true" />
-                <element signature="e#6195#6216#0" expanded="true" />
-                <element signature="e#6938#6953#0" expanded="true" />
-                <element signature="e#8241#8255#0" expanded="true" />
-                <element signature="e#8672#8686#0" expanded="true" />
-                <element signature="e#9305#9322#0" expanded="true" />
-                <element signature="e#9900#9923#0" expanded="true" />
-                <element signature="e#11220#11234#0" expanded="true" />
-                <element signature="e#11649#11663#0" expanded="true" />
-                <element signature="e#12230#12244#0" expanded="true" />
-                <element signature="e#12719#12747#0" expanded="true" />
-                <element signature="e#13486#13507#0" expanded="true" />
-                <element signature="e#14744#14778#0" expanded="true" />
-                <element signature="e#15420#15434#0" expanded="true" />
-                <element signature="e#15854#15868#0" expanded="true" />
-                <element signature="e#16445#16459#0" expanded="true" />
-                <element signature="e#16941#16965#0" expanded="true" />
-                <element signature="e#17693#17720#0" expanded="true" />
-                <element signature="e#19062#19076#0" expanded="true" />
-                <element signature="e#19494#19508#0" expanded="true" />
-                <element signature="e#20079#20093#0" expanded="true" />
-                <element signature="e#20571#20593#0" expanded="true" />
-                <element signature="e#21317#21342#0" expanded="true" />
-                <element signature="e#22686#22700#0" expanded="true" />
-                <element signature="e#23125#23139#0" expanded="true" />
-                <element signature="e#23731#23745#0" expanded="true" />
-                <element signature="e#24237#24267#0" expanded="true" />
-                <element signature="e#25005#25037#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/src/main/res/drawable-xhdpi/profile.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="android-dummy:///App Link Testing">
+          <provider selected="true" editor-type-id="urlAssistantEditor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/src/main/res/drawable/profile2.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/src/main/res/layout/activity_recycler_view.xml">
-          <provider editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/base/build/generated/source/buildConfig/debug/com/ahmad/cv/base/BuildConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/installed/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-          <provider editor-type-id="android-manifest" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/activities/ScrollingActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="45" selection-start-line="45" selection-end-line="46" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/base/src/main/res/layout/education.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="252" selection-end-line="289" />
-              <folding>
-                <element signature="e#10504#10529#0" expanded="true" />
-              </folding>
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -197,9 +311,26 @@
       <find>company_name</find>
       <find>title</find>
       <find>experience</find>
+      <find>com.ahmad</find>
+      <find>com.rishwan</find>
+      <find>ahma</find>
+      <find>com.ahmad.cv</find>
     </findStrings>
+    <replaceStrings>
+      <replace>com.rishwan</replace>
+      <replace>com.ahmad</replace>
+      <replace>com.rishwan.cv</replace>
+    </replaceStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Desktop/keystore" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -213,7 +344,6 @@
         <option value="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/SkillFragment.java" />
         <option value="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/ProfessionFragment.java" />
         <option value="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/adapters/ViewPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/base/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/base/src/main/res/layout/education.xml" />
         <option value="$PROJECT_DIR$/base/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/model/DataItem.java" />
@@ -226,6 +356,9 @@
         <option value="$PROJECT_DIR$/base/src/main/res/layout/list.xml" />
         <option value="$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/activities/ScrollingActivity.java" />
         <option value="$PROJECT_DIR$/base/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/installed/build.gradle" />
+        <option value="$PROJECT_DIR$/base/src/main/java/com/rishwan/cv/activities/ScrollingActivity.java" />
+        <option value="$PROJECT_DIR$/base/src/main/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -280,34 +413,7 @@
             <path>
               <item name="Personal-Resume-master" type="1abcf292:AndroidViewProjectNode" />
               <item name="base" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="cv" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal-Resume-master" type="1abcf292:AndroidViewProjectNode" />
-              <item name="base" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="cv" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="fragments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal-Resume-master" type="1abcf292:AndroidViewProjectNode" />
-              <item name="base" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="cv" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal-Resume-master" type="1abcf292:AndroidViewProjectNode" />
-              <item name="base" type="feadf853:AndroidModuleNode" />
               <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="Personal-Resume-master" type="1abcf292:AndroidViewProjectNode" />
-              <item name="base" type="feadf853:AndroidModuleNode" />
-              <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="base" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
             <path>
               <item name="Personal-Resume-master" type="1abcf292:AndroidViewProjectNode" />
@@ -356,9 +462,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_XL_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-16T07:06:41.779Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/installed" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Signing Configs" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -387,6 +505,112 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollingActivity" type="AndroidRunConfigurationType" factoryName="Android App" temporary="true">
+      <module name="base" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.rishwan.cv.activities.ScrollingActivity" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="URL http://rishwantariq.github.io/resume/" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="instant" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="launch_deep_link" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="http://rishwantariq.github.io/resume/" />
+      <option name="ACTIVITY_CLASS" value="" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -497,6 +721,17 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Android App.installed" />
+      <item itemvalue="Android App.instant" />
+      <item itemvalue="Android App.URL http://rishwantariq.github.io/resume/" />
+      <item itemvalue="Android App.ScrollingActivity" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android App.ScrollingActivity" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -522,7 +757,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="959" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16849817" />
@@ -540,15 +774,15 @@
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.3298731" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.34717417" />
-      <window_info anchor="bottom" id="Find" order="8" weight="0.15570934" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.34717417" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.33564013" />
       <window_info anchor="bottom" id="Android Profiler" order="9" weight="0.1407151" />
-      <window_info anchor="right" id="Assistant" weight="0.22100122" />
+      <window_info anchor="right" id="Assistant" visible="true" weight="0.22100122" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" weight="0.32967034" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Preview" order="4" visible="true" weight="0.30891332" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.30891332" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
@@ -610,23 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/AboutFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="37" column="60" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/EducationFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base/src/main/res/layout/fragment_skills.xml">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="android-designer2" />
@@ -653,26 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/adapters/CustomAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/skills.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base/src/main/res/layout/fragment_blank_fragment2.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
@@ -684,16 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/ProfessionFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base/src/main/res/layout/activity_scrolling.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
@@ -702,25 +889,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-508">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/base/src/main/res/layout/profession.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="450" column="30" selection-start-line="450" selection-start-column="30" selection-end-line="450" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/adapters/AboutAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -765,19 +938,11 @@
     <entry file="file://$PROJECT_DIR$/base/src/main/res/drawable-xhdpi/profile.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/base/src/main/res/drawable/profile2.png">
+    <entry file="file://$PROJECT_DIR$/base/src/main/res/drawable/profile.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/installed/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
-      </provider>
       <provider editor-type-id="android-manifest" />
     </entry>
     <entry file="file://$PROJECT_DIR$/base/src/main/res/layout/activity_recycler_view.xml">
@@ -785,13 +950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="34" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/activities/ScrollingActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="45" selection-start-line="45" selection-end-line="46" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -837,6 +995,129 @@
             <element signature="e#24237#24267#0" expanded="true" />
             <element signature="e#25005#25037#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/build/generated/source/buildConfig/androidTest/debug/com/ahmad/cv/base/test/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/build/generated/source/buildConfig/debug/com/ahmad/cv/base/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/AboutFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="37" column="60" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/ProfessionFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/EducationFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/fragments/skills.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/adapters/AboutAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/adapters/CustomAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instant/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/ahmad/cv/activities/ScrollingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#396#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/installed/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/rishwan/cv/adapters/AboutAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/java/com/rishwan/cv/activities/ScrollingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>

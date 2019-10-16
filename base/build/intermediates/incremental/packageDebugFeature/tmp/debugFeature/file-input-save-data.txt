@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Oct 15 19:47:04 PKT 2019
+#Wed Oct 16 16:51:07 PKT 2019
 1.base=/Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/build/intermediates/transforms/dexMerger/feature/debug/1
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY

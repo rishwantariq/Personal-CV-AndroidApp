@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/e7042ebb658e310fe5321b450ee30106/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f5b8c6c865536796dbee7fc81142a621/AndroidManifest.xml:17:1-24:12
+MERGED from [com.rhexgomez.typer:typer-roboto:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/dfd6051c0826024ae7b41eec831448df/AndroidManifest.xml:16:1-34:12
+MERGED from [com.rhexgomez.typer:common:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f9918ee21e4eb05bf26fb5f324f525b1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/c024474a36830cb7357c8a63a52c0e83/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/296cd1f5d5631fb37c97efb592a6d94e/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/93bb681c709e9c30d5695b42f1613b2b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3c42b3d55fa367d773e6eda3e50d230e/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/08cb6c03c327bd9110987e8457576f54/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/447b7b9f509569c1d81b65ee21f53f33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/8ad8b3e2059fb3984710bcbbe49c30ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/c509ac2a2c8bcc4dc3a5b9bd39415749/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f45f4144ae6ecbe09237527c750fab3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/d41f8ddc40d449c4a1e5b2e5f6364cd4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/67ea822f0d4152ead2f553db82fc8cb6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/9efedf87568224377f6cfacf79e1556c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/410c78e50c7c50c1b4427eab30dc6ad5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/40bd7f57bfa02b4fa5ca85a3954c4bbb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/39141c0d41db3f7a303db66ea36abd10/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/c8bb3df19b1700393374d234f2800bd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/819b96a22acc9fcac56d2e08e5a917b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/4d6595c692fa16e3d0a202c0bed883f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3730c930653f82328f35662279493751/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/7ece05bd2a6c086805e2841b66231e60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/9f53ff726a334cd1550fa9b74f4c5288/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/16313cb82de16349a2baa1f7a7e4c1b0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/b5619d208c9879b2c3fb0dd160cd162c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/78d384ff6db895b7bdf3fdbf0a235d12/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/b5a1c9c8f4c484626dd430a3d8807873/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f5f893bf770b58121cead7ad38968141/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/598f1cb9550a53a515d28e7a3077ff29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/d16ac90f8ca1b2f98b0aee2fb488e522/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/8e9f19611f47dec087cb785d7ff34c0f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/fc86127d437d7b6ec8b1b010c10c69bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f846c75d94609ea776ab341581d57b33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/96ad0398a33c3c87729aa662c52afd59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/7ac67b91539f8bbb4cfeac31be5951ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/60d50912c2ad606c5d16bd4cdfdd42b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/fea6c6988dbfef9b1b5306bc90f81de6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:3:5-32
+	android:versionName
+		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:8:5-45:19
+MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/e7042ebb658e310fe5321b450ee30106/AndroidManifest.xml:11:5-15:19
+MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/e7042ebb658e310fe5321b450ee30106/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f5b8c6c865536796dbee7fc81142a621/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f5b8c6c865536796dbee7fc81142a621/AndroidManifest.xml:22:5-20
+MERGED from [com.rhexgomez.typer:typer-roboto:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/dfd6051c0826024ae7b41eec831448df/AndroidManifest.xml:25:5-32:19
+MERGED from [com.rhexgomez.typer:typer-roboto:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/dfd6051c0826024ae7b41eec831448df/AndroidManifest.xml:25:5-32:19
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/93bb681c709e9c30d5695b42f1613b2b/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/93bb681c709e9c30d5695b42f1613b2b/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3c42b3d55fa367d773e6eda3e50d230e/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3c42b3d55fa367d773e6eda3e50d230e/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/08cb6c03c327bd9110987e8457576f54/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/08cb6c03c327bd9110987e8457576f54/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/16313cb82de16349a2baa1f7a7e4c1b0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/16313cb82de16349a2baa1f7a7e4c1b0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/b5619d208c9879b2c3fb0dd160cd162c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/b5619d208c9879b2c3fb0dd160cd162c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/16313cb82de16349a2baa1f7a7e4c1b0/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:14:9-40
+activity#com.ahmad.cv.activities.ScrollingActivity
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:15:9-40:20
+	android:label
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:16:13-69
+meta-data#default-url
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:19:13-21:64
+	android:value
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:21:17-61
+	android:name
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:20:17-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:26:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:rishwantariq.github.io+data:pathPrefix:/resume/+data:scheme:http
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:28:13-38:29
+	android:autoVerify
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:28:28-53
+action#android.intent.action.VIEW
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:31:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:32:27-75
+data
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:34:17-37:53
+	android:host
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:36:21-58
+	android:scheme
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:35:21-42
+	android:pathPrefix
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:37:21-50
+meta-data#preloaded_fonts
+ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:42:9-44:57
+	android:resource
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:44:13-54
+	android:name
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml:43:13-43
+uses-sdk
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/e7042ebb658e310fe5321b450ee30106/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/e7042ebb658e310fe5321b450ee30106/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f5b8c6c865536796dbee7fc81142a621/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f5b8c6c865536796dbee7fc81142a621/AndroidManifest.xml:20:5-44
+MERGED from [com.rhexgomez.typer:typer-roboto:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/dfd6051c0826024ae7b41eec831448df/AndroidManifest.xml:21:5-23:41
+MERGED from [com.rhexgomez.typer:typer-roboto:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/dfd6051c0826024ae7b41eec831448df/AndroidManifest.xml:21:5-23:41
+MERGED from [com.rhexgomez.typer:common:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f9918ee21e4eb05bf26fb5f324f525b1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.rhexgomez.typer:common:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f9918ee21e4eb05bf26fb5f324f525b1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/c024474a36830cb7357c8a63a52c0e83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/c024474a36830cb7357c8a63a52c0e83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/296cd1f5d5631fb37c97efb592a6d94e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/296cd1f5d5631fb37c97efb592a6d94e/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/93bb681c709e9c30d5695b42f1613b2b/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/93bb681c709e9c30d5695b42f1613b2b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3c42b3d55fa367d773e6eda3e50d230e/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3c42b3d55fa367d773e6eda3e50d230e/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/08cb6c03c327bd9110987e8457576f54/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/08cb6c03c327bd9110987e8457576f54/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/447b7b9f509569c1d81b65ee21f53f33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/447b7b9f509569c1d81b65ee21f53f33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/8ad8b3e2059fb3984710bcbbe49c30ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/8ad8b3e2059fb3984710bcbbe49c30ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/c509ac2a2c8bcc4dc3a5b9bd39415749/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/c509ac2a2c8bcc4dc3a5b9bd39415749/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f45f4144ae6ecbe09237527c750fab3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f45f4144ae6ecbe09237527c750fab3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/d41f8ddc40d449c4a1e5b2e5f6364cd4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/d41f8ddc40d449c4a1e5b2e5f6364cd4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/67ea822f0d4152ead2f553db82fc8cb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/67ea822f0d4152ead2f553db82fc8cb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/9efedf87568224377f6cfacf79e1556c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/9efedf87568224377f6cfacf79e1556c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/410c78e50c7c50c1b4427eab30dc6ad5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/410c78e50c7c50c1b4427eab30dc6ad5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/40bd7f57bfa02b4fa5ca85a3954c4bbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/40bd7f57bfa02b4fa5ca85a3954c4bbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/39141c0d41db3f7a303db66ea36abd10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/39141c0d41db3f7a303db66ea36abd10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/c8bb3df19b1700393374d234f2800bd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/c8bb3df19b1700393374d234f2800bd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/819b96a22acc9fcac56d2e08e5a917b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/819b96a22acc9fcac56d2e08e5a917b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/4d6595c692fa16e3d0a202c0bed883f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/4d6595c692fa16e3d0a202c0bed883f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3730c930653f82328f35662279493751/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3730c930653f82328f35662279493751/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/7ece05bd2a6c086805e2841b66231e60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/7ece05bd2a6c086805e2841b66231e60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/9f53ff726a334cd1550fa9b74f4c5288/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/9f53ff726a334cd1550fa9b74f4c5288/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/16313cb82de16349a2baa1f7a7e4c1b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/16313cb82de16349a2baa1f7a7e4c1b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/b5619d208c9879b2c3fb0dd160cd162c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/b5619d208c9879b2c3fb0dd160cd162c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/78d384ff6db895b7bdf3fdbf0a235d12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/78d384ff6db895b7bdf3fdbf0a235d12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/b5a1c9c8f4c484626dd430a3d8807873/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/b5a1c9c8f4c484626dd430a3d8807873/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f5f893bf770b58121cead7ad38968141/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f5f893bf770b58121cead7ad38968141/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/598f1cb9550a53a515d28e7a3077ff29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/598f1cb9550a53a515d28e7a3077ff29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/d16ac90f8ca1b2f98b0aee2fb488e522/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/d16ac90f8ca1b2f98b0aee2fb488e522/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/8e9f19611f47dec087cb785d7ff34c0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/8e9f19611f47dec087cb785d7ff34c0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/fc86127d437d7b6ec8b1b010c10c69bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/fc86127d437d7b6ec8b1b010c10c69bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f846c75d94609ea776ab341581d57b33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/f846c75d94609ea776ab341581d57b33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/96ad0398a33c3c87729aa662c52afd59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/96ad0398a33c3c87729aa662c52afd59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/7ac67b91539f8bbb4cfeac31be5951ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/7ac67b91539f8bbb4cfeac31be5951ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/60d50912c2ad606c5d16bd4cdfdd42b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/60d50912c2ad606c5d16bd4cdfdd42b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/fea6c6988dbfef9b1b5306bc90f81de6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/fea6c6988dbfef9b1b5306bc90f81de6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+		ADDED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+		INJECTED from /Users/rishwantariq/AndroidStudioProjects/Personal-Resume-master/base/src/main/AndroidManifest.xml
+provider#com.rhexgomez.typer.common.TyperProvider
+ADDED from [com.rhexgomez.typer:typer-roboto:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/dfd6051c0826024ae7b41eec831448df/AndroidManifest.xml:28:9-31:40
+	android:authorities
+		ADDED from [com.rhexgomez.typer:typer-roboto:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/dfd6051c0826024ae7b41eec831448df/AndroidManifest.xml:30:13-78
+	android:exported
+		ADDED from [com.rhexgomez.typer:typer-roboto:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/dfd6051c0826024ae7b41eec831448df/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.rhexgomez.typer:typer-roboto:2.0.0] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/dfd6051c0826024ae7b41eec831448df/AndroidManifest.xml:29:13-68
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3c42b3d55fa367d773e6eda3e50d230e/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3c42b3d55fa367d773e6eda3e50d230e/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3c42b3d55fa367d773e6eda3e50d230e/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/rishwantariq/.gradle/caches/transforms-2/files-2.1/3c42b3d55fa367d773e6eda3e50d230e/AndroidManifest.xml:9:13-64
